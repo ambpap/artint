@@ -27,5 +27,5 @@ https://github.com/mnielsen/neural-networks-and-deep-learning
 
 https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3
 
-
+the training data is stored in training_data_row.txt for the random numbers and in project_b_training.txt for the shape recognizing network.
 those helped me to better understand the basics of neural networks.
